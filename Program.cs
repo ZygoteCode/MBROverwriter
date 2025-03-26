@@ -35,7 +35,7 @@ public class Program
             return;
         }
 
-        Console.Title = "MBR Overwriter | Made by https://github.com/GabryB03";
+        Console.Title = "MBR Overwriter | Made by https://github.com/ZygoteCode";
 
         Console.WriteLine("This program does not require Administrator privileges.\r\n" +
             "If you press ENTER, your system will be not accessible anymore.\r\n" +
